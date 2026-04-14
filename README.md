@@ -25,7 +25,7 @@ Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da in
 - **Inclusão e capilaridade**: presença territorial + suporte (equipe, tablets, internet), reduzindo barreiras.
 
 ## Contato
-Para dúvidas sobre o projeto tecnológico e replicação da solução, entre em contato com a **DITI (Diretoria de Tecnologia e Inovação)** da SEPLAN:
+Para dúvidas sobre o projeto, entre em contato com a **DPLN (Diretoria Planejamento)** da SEPLAN:
 
 - **E-mail**: `gplanejamentoseplanpi@gmail.com`
 
