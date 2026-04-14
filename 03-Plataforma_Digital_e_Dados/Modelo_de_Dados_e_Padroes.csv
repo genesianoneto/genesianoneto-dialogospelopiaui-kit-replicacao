@@ -1,0 +1,3 @@
+id_proposta,titulo,descricao,territorio,eixo,oficina,data_evento,status,origem_insumo,versao_estruturada,validada_em,priorizada,rank_prioridade,pontos_recebidos,quantidade_votos,hash_auditoria,url_publicacao,observacoes
+ex_001,"Título da proposta","Descrição completa da proposta","Planície Litorânea","Saúde e Bem-Estar","Oficina temática","2025-04-01","validada","discussao_participantes","texto_estruturado_v1","2025-04-01","sim",1,1200,50,"","","
+
