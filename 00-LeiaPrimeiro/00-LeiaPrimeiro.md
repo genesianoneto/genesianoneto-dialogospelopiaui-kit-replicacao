@@ -17,7 +17,7 @@ Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da in
 ## Contato
 Para dúvidas sobre o projeto e replicação da solução, entre em contato com a **DPLN (Diretoria de Planejamento)** da SEPLAN:
 
-- **E-mail**: `diti@seplan.pi.gov.br`
+- **E-mail**: `gplanejamentoseplanpi@gmail.com`
 
 ## Pré-requisitos mínimos (para replicar)
 - **Governança**: órgão coordenador (ex.: planejamento) + comitê de acompanhamento.
