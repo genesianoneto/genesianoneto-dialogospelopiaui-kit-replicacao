@@ -27,7 +27,7 @@ Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da in
 ## Contato
 Para dúvidas sobre o projeto tecnológico e replicação da solução, entre em contato com a **DITI (Diretoria de Tecnologia e Inovação)** da SEPLAN:
 
-- **E-mail**: `diti@seplan.pi.gov.br`
+- **E-mail**: `gplanejamentoseplanpi@gmail.com`
 
 ## Pré-requisitos mínimos (para replicar)
 
