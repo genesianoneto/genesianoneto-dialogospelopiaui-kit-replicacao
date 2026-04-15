@@ -14,7 +14,7 @@
 2. **Metodologia**: mobilização → oficinas → plenária
 3. **Condução de oficina**: perguntas norteadoras, técnicas de mediação, registro
 4. **Estruturação e validação** de propostas (incluindo uso de IA quando aplicável)
-5. **Priorização**: QR Code, 100 pontos, regras e suporte
+5. **Priorização**: QR Code, distribuição ponderada dos 100 pontos, regras e suporte
 6. **Conduta e integridade**: neutralidade do facilitador, prevenção de captura
 7. **Operação**: fluxo de credenciamento, acessibilidade e inclusão digital
 8. **Pós-evento**: consolidação, publicação e indicadores
