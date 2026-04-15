@@ -2,8 +2,6 @@
 
 [Voltar ao README](../README.md)
 
-Inclua aqui os links públicos que comprovam execução, transparência e resultados.
-
 ## Observatório digital (resultado final)
 - **URL**: https://dialogos.seplan.pi.gov.br/observatorio
 - **Descrição**: página pública com propostas eleitas e lista completa para consulta/auditoria social.
