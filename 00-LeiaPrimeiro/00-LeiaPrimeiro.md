@@ -20,7 +20,7 @@ Para dúvidas sobre o projeto e replicação da solução, entre em contato com 
 - **E-mail**: `gplanejamentoseplanpi@gmail.com`
 
 ## Pré-requisitos mínimos (para replicar)
-- **Governança**: órgão coordenador (ex.: planejamento) + comitê de acompanhamento.
+- **Governança**: órgão coordenador (ex.: planejamento).
 - **Territorialização**: recorte territorial (regiões, municípios, bairros) e estratégia de mobilização.
 - **Operação**: equipe de facilitação, credenciamento, suporte técnico e comunicação.
 - **Infraestrutura**: local adequado, projeção/áudio, internet estável, dispositivos para participação.
