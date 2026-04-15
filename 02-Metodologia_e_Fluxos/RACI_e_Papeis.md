@@ -30,6 +30,21 @@ Legenda: **R** (Responsável), **A** (Aprovador), **C** (Consultado), **I** (Inf
 | Votação/priorização (QR/100 pontos) | A | C | R | I | C | R | I | I |
 | Publicação/observatório e transparência | A | I | I | I | I | R | C | I |
 
+## Matriz RACI (exemplo mínimo)
+| Atividade | Coordenação_geral | Facilitação | Credenciamento | Apoio_inclusao_digital | Tecnologia_dados | Comunicação | Logistica |
+|---|---|---|---|---|---|---|---|
+| Definir escopo, eixos e perguntas norteadoras | A | I | I | I | C | I | I |
+| Plano de mobilização e representatividade | A | I | I | I | I | C | I |
+| Preparar local e infraestrutura | A | I | I | I | I | I | R |
+| Treinar facilitadores e equipe de apoio | A | I | I | I | C | I | I |
+| Credenciar participantes | I | I | R | R | I | I | C |
+| Conduzir oficinas e coletar insumos | I | R | I | I | I | I | I |
+| Estruturar propostas e consolidar dados | A | C | I | I | R | I | I |
+| Validação das propostas com participantes | I | R | I | I | C | I | I |
+| Votação/priorização (QR/100 pontos) | I | R | I | R | R | I | I |
+| Publicação/observatório e transparência | A | I | I | I | R | I | I |
+
+
 ---
 
 ### Navegação
