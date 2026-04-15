@@ -4,7 +4,7 @@
 
 ## Observatório digital (resultado final)
 - **URL**: https://dialogos.seplan.pi.gov.br/observatorio
-- **Descrição**: página pública com propostas eleitas e lista completa para consulta/auditoria social.
+- **Descrição**: página pública com propostas eleitas para consulta/auditoria social.
 
 ## Site institucional
 - Página do projeto na SEPLAN: https://www.seplan.pi.gov.br/
