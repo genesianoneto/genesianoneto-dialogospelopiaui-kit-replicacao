@@ -12,7 +12,7 @@ Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da in
 - **Templates**: [`06-Templates/Template_Perguntas_Norteadoras.md`](06-Templates/Template_Perguntas_Norteadoras.md) | [`06-Templates/Template_Comunicacao_e_Mobilizacao.md`](06-Templates/Template_Comunicacao_e_Mobilizacao.md) | [`06-Templates/Template_Ata_e_Relatorio_Final.md`](06-Templates/Template_Ata_e_Relatorio_Final.md) | [`06-Templates/Template_Termo_de_Consentimento_LGPD.md`](06-Templates/Template_Termo_de_Consentimento_LGPD.md)
 - **Texto para o formulário**: [`TEXTO_PARA_FORMULARIO_VITRINE_GOV.md`](TEXTO_PARA_FORMULARIO_VITRINE_GOV.md)
 
-## O que é (em 30 segundos)
+## O que é
 
 - **Quem realizou**: Governo do Estado do Piauí, por meio da **SEPLAN**.
 - **Onde/Quando**: etapas presenciais nos **12 Territórios de Desenvolvimento do Piauí** (2025, abril a novembro).
