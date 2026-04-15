@@ -14,7 +14,7 @@ O material menciona dashboards em tempo real e painéis (estratégico e operacio
 - **Total de propostas cadastradas**
 - Propostas por território/eixo
 - Temáticas abordadas por oficina/eixo
-- Tempo médio para estruturar/validar proposta (se houver)
+- Tempo médio para estruturar/validar proposta (se aplicável)
 
 ## Indicadores de priorização
 - Total de votos/pontos
