@@ -1,13 +1,13 @@
-# Template — Perguntas norteadoras (oficina temática)
+# Template — Perguntas Norteadoras (Oficina Temática)
 
 [Voltar ao README](../README.md)
 
 ## Oficina
 - **Território**:
-- **Eixo temático**:
+- **Eixo Temático**:
 - **Data**:
 - **Local**:
-## Perguntas (3–6)
+## Perguntas Norteadoras
 1.
 2.
 3.
