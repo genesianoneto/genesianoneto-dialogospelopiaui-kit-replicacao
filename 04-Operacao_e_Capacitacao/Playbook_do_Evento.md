@@ -9,7 +9,7 @@ Este playbook traduz para execução os elementos operacionais citados no materi
 - **Sinalização**: orientar fluxo de entrada, credenciamento, oficinas, votação.
 - **Áudio e projeção**: contratar suporte especializado (acústica/projeção).
 - **Internet**: link principal + redundância; teste de carga.
-- **Dispositivos**: tablets suficientes; carregadores; ponto de energia.
+- **Dispositivos**: tablets suficientes; carregadores; pontos de energia.
 - **Equipes**: credenciamento, facilitadores, apoio (inclusão digital), logística.
 - **Treinamento**: simular oficina (perguntas, coleta de insumos, validação, votação).
 - **Mobilização**: ações para representatividade (gênero, raça, faixa etária, setores).
@@ -17,9 +17,9 @@ Este playbook traduz para execução os elementos operacionais citados no materi
 ## Durante o evento
 - **Credenciamento**: organizar fila, registrar presença, direcionar para oficinas.
 - **Facilitação**: conduzir discussão com perguntas norteadoras, garantir escuta e equilíbrio.
-- **Registro e estruturação**: capturar insumos e estruturar propostas (IA/equipe técnica).
+- **Registro e estruturação**: capturar insumos e estruturar propostas (equipe técnica/IA).
 - **Validação**: apresentar propostas estruturadas para validação dos participantes.
-- **Votação**: QR Code, explicar regra de **100 pontos**, apoiar quem precisar.
+- **Votação**: QR Code, explicar regra de **100 pontos**, oferecer suporte.
 - **Transparência**: exibir consolidações/dashboards quando aplicável.
 
 ## Depois do evento (D+1 a D+15)
