@@ -4,7 +4,7 @@
 
 Este kit foi preparado para **facilitar a replicabilidade/adaptabilidade** da iniciativa **Diálogos pelo Piauí**, um projeto de participação social e transparência que modernizou o processo de **revisão do Plano Plurianual (PPA)**, respeitando as particularidades de cada território.
 
-## O que é (em 30 segundos)
+## O que é
 - **Quem realizou**: Governo do Estado do Piauí, por meio da **SEPLAN**.
 - **Onde/Quando**: etapas presenciais nos **12 Territórios de Desenvolvimento do Piauí** (2025, abril a novembro).
 - **Como funciona**: mobilização territorial → **oficinas temáticas** → **plenária final**, com apoio de plataforma digital e **IA** para estruturar propostas, seguida de **validação humana** e **votação de prioridades**.
