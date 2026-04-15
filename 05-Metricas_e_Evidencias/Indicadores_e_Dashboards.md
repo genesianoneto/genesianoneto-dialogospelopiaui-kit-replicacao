@@ -7,12 +7,13 @@ O material menciona dashboards em tempo real e painéis (estratégico e operacio
 ## Indicadores de participação
 - **Cidadãos inscritos**
 - **Cidadãos participantes**
-- Participação por **território**
+- Participação por **território/município**
 - Participação por **oficina/eixo**
 
 ## Indicadores de produção de propostas
 - **Total de propostas cadastradas**
 - Propostas por território/eixo
+- Temáticas abordadas por oficina/eixo
 - Tempo médio para estruturar/validar proposta (se houver)
 
 ## Indicadores de priorização
@@ -26,7 +27,7 @@ O material menciona dashboards em tempo real e painéis (estratégico e operacio
 - Feedbacks qualitativos (principais temas)
 
 ## Publicação e transparência
-- Link do **observatório** com propostas eleitas e lista completa.
+- Link do **observatório** com propostas eleitas (e/ou lista completa).
 - Base exportável (CSV) para auditoria social.
 
 ---
