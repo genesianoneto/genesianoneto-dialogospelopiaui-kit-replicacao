@@ -5,7 +5,7 @@
 Este playbook traduz para execução os elementos operacionais citados no material.
 
 ## Antes do evento (D-30 a D-1)
-- **Local**: reservar espaço público (universidade/IFPI/escola), com capacidade adequada.
+- **Local**: reservar espaço público (universidade/escola), com capacidade adequada.
 - **Sinalização**: orientar fluxo de entrada, credenciamento, oficinas, votação.
 - **Áudio e projeção**: contratar suporte especializado (acústica/projeção).
 - **Internet**: link principal + redundância; teste de carga.
