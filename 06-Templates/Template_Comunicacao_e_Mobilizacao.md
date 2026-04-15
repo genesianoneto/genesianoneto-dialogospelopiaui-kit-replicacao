@@ -10,9 +10,9 @@
 - Faixa etária:
 - Setores econômicos/segmentos:
 ## Canais
-- Rádio local
+- Rádios locais
 - Redes sociais
-- Parcerias (universidades, IFPIs, escolas, associações)
+- Parcerias (universidades, institutos federais, escolas, associações)
 - Lideranças comunitárias
 - Convites institucionais
 
